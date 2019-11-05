@@ -4,8 +4,10 @@
 
 This file defines Agent class to submit.
 This includes the logic to use the prediction module.
+
+
 The convolutional LSTM for the internal model
-is loaded from file "model.h5".
+is loaded from the file "model.h5".
 
 
 ## conv_lstm.py
